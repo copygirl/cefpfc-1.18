@@ -1,0 +1,13 @@
+name = "cefpfc 1.18"
+author = "copygirl"
+version = "0.1.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2deb31948d48e786b6a07958dd6dbfd5dce6f77b28ea6f808f43dc9a7f01a44c"
+
+[versions]
+fabric = "0.14.4"
+minecraft = "1.18.2"
