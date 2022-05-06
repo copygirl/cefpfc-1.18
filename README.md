@@ -1,3 +1,3 @@
 # copy's Extraordinary Fabric Pack for Cuties
 
-.. is a Minecraft 1.18.2 modpack for the Fabric Loader, called "cefpfc" for short. It aims to provide an optimized, solid and expanded Minecraft experience.
+.. or "cefpfc" for short, is a Minecraft 1.18.2 Fabric modpack. It aims to provide an optimized, expanded, yet solid Minecraft experience. For a list of mods and short descriptions on each check out [MODS.md](docs/MODS.md).
