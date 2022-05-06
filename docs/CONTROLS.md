@@ -4,8 +4,8 @@
 
 ### Inventory Essentials
 
-- `Ctrl` + `LMB` = Quick-move single item
-- `Shift` + `Ctrl` + `LMB` = Quick-move all items of the same type
+- `Ctrl` + ![](icon/lmb.png) = Quick-move single item
+- `Shift` + `Ctrl` + ![](icon/lmb.png) = Quick-move all items of the same type
 - Hold `Shift` while moving over slots to quick-move them all
 
 ### Inventory Hotswap
@@ -24,8 +24,8 @@
 ### Xaero's World Map
 
 - `M` = Display world map screen
-- `LMB` + Drag = Move map around
-- `RMB` = Open context menu
+- ![](icon/lmb.png) + Drag = Move map around
+- ![](icon/rmb.png) = Open context menu
 - `Page Up` = Zoom in
 - `Page Down` = Zoom out
 
