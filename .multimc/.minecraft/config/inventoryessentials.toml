@@ -1,0 +1,7 @@
+forceClientImplementation = false
+enableSingleTransfer = true
+enableBulkTransfer = true
+enableBulkTransferAll = false
+enableBulkDrop = true
+allowBulkTransferAllOnEmptySlot = false
+enableShiftDrag = true

@@ -1,0 +1,13 @@
+name = "Inventory Essentials (Fabric Edition)"
+filename = "inventoryessentials-fabric-1.18-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3550/139/inventoryessentials-fabric-1.18-4.0.0.jar"
+hash-format = "sha1"
+hash = "678ddc19ff4736af113bc625d0f275c1da4baf7e"
+
+[update]
+[update.curseforge]
+file-id = 3550139
+project-id = 547699
