@@ -1,0 +1,18 @@
+name = "Sildur's Vibrant Shaders"
+filename = "Sildur's+Vibrant+Shaders+v1.32+Medium.zip"
+side = "client"
+
+[download]
+url = "https://media.forgecdn.net/files/3590/77/Sildur%27s+Vibrant+Shaders+v1.32+Extreme.zip"
+hash-format = "sha1"
+hash = "6772614703ea693fbb004ab6814a0d292f8b90a8"
+
+[update]
+[update.curseforge]
+file-id = 3590077
+project-id = 544096
+
+[option]
+description = "Revamps the lighting system and adds advanced effects"
+optional = true
+default = false

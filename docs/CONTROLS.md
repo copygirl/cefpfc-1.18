@@ -1,5 +1,3 @@
-# Controls
-
 ## Management
 
 ### Inventory Essentials
@@ -45,3 +43,9 @@
 - `Numpad 0` = Open configuration screen
 - `Numpad 1` = Toggle HUD overlay
 - `Numpad 2` = Toggle liquid selection
+
+## Graphics
+
+### Iris Shaders
+
+- `F8` = Toggle shaders on / off

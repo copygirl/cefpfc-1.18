@@ -150,6 +150,11 @@ hash = "3f0ba391e437c0c55e24f80cc8360e620773e156f1e2bb34e7f5e997496d3c2f"
 metafile = true
 
 [[files]]
+file = "mods/iris.toml"
+hash = "7ad92bbc0c4cc16805f472c55c9716f6b85ffed6a292a9e4e78a07edd7e016a5"
+metafile = true
+
+[[files]]
 file = "mods/item-model-fix.toml"
 hash = "9ab8949bcb4280b1a4b97d40ded17b4786a6c4db1271c121a7fc52ea6f838e0e"
 metafile = true
@@ -267,4 +272,14 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.toml"
 hash = "10444c645865870593097d6081710d123e0dd4f2f6b740d7f990adad4128f391"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-shaders.toml"
+hash = "0221819f5d9e5a73041ee8009dfec2ebeda446a6a2913dfbf633c3568c66c165"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-vibrant-shaders.toml"
+hash = "5d7218553ebd03d92f608b5de682ea73b95603f95983c761e6b57b26ea2a50a2"
 metafile = true

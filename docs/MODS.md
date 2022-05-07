@@ -104,6 +104,9 @@
 - ![](icon/mr.png) **[Better Clouds]** (optional) - Prettier but still Vanilla-style clouds
 - ![](icon/mr.png) **[Blur]** - Blurs the world behind opened GUIs
 - ![](icon/mr.png) **[Falling Leaves]** - Falling leaves particle effect to trees
+- ![](icon/mr.png) **[Iris Shaders]** - Add support for shaderpacks
+  - ![](icon/cf.png) **[Complementary Shaders]** - Shaders aiming at performance, gameplay, beauty and compatibility
+  - ![](icon/cf.png) **[Sildur's Vibrant Shaders]** - Revamps the lighting system and adds advanced effects
 - ![](icon/mr.png) **[LambDynamicLights]** - Various ways to dynamically light your surroundings
 - ![](icon/cf.png) **[Smooth Swapping]** - Smoothly move items when transferring them
 - ![](icon/mr.png) **[Visuality]** - Visual improvements through additional particle effects
@@ -111,6 +114,9 @@
 [Better Clouds]: https://modrinth.com/mod/better-clouds
 [Blur]: https://modrinth.com/mod/blur-fabric
 [Falling Leaves]: https://modrinth.com/mod/fallingleaves
+[Iris Shaders]: https://modrinth.com/mod/iris
+[Complementary Shaders]: https://www.curseforge.com/minecraft/customization/complementary-shaders
+[Sildur's Vibrant Shaders]: https://www.curseforge.com/minecraft/customization/sildurs-vibrant-shaders
 [LambDynamicLights]: https://modrinth.com/mod/lambdynamiclights
 [Smooth Swapping]: https://www.curseforge.com/minecraft/mc-mods/smooth-swapping
 [Visuality]: https://modrinth.com/mod/visuality
