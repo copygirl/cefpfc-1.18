@@ -4,6 +4,7 @@
 
 - ![](icon/mr.png) **[Alternate Current]** - Redstone optimizations
 - ![](icon/mr.png) **[Concurrent Chunk Management Engine]** - Chunk generation and loading optimizations
+- ![](icon/cf.png) **[Dimension Fix]** - Fix dimensions all being removed when one is removed
 - ![](icon/mr.png) **[Feature NBT Deadlock Be Gone]** - Fixes deadlocks caused by MC-246262
 - ![](icon/mr.png) **[FerriteCore]** - Memory usage optimizations
 - ![](icon/mr.png) **[Krypton]** - Networking stack optimizations
@@ -13,6 +14,7 @@
 
 [Alternate Current]: https://modrinth.com/mod/alternate-current
 [Concurrent Chunk Management Engine]: https://modrinth.com/mod/c2me-fabric
+[Dimension Fix]: https://www.curseforge.com/minecraft/mc-mods/dimension-fix-some-forge-patches-ported
 [Feature NBT Deadlock Be Gone]: https://modrinth.com/mod/feature-nbt-deadlock-be-gone
 [FerriteCore]: https://modrinth.com/mod/ferrite-core
 [Krypton]: https://modrinth.com/mod/krypton
@@ -76,7 +78,9 @@
 ### Information
 
 - ![](icon/cf.png) **[Axolotl Bucket Fix]** - Correct item texture for diferent axolotl types
+- ![](icon/cf.png) **[Chat Heads]** - Displays players' heads next to their chat messages
 - ![](icon/mr.png) **[Detail Armor Bar]** - More information about worn armor in the armor bar HUD
+- ![](icon/mr.png) **[Enhanced Attack Indicator]** - Uses the attack indicator for more items
 - ![](icon/mr.png) **[Inspecio]** - More tooltips (food, armor, shulker boxes, maps, ...)
 - ![](icon/cf.png) **[Pick Up Notifier]** - Shows item and experience picked up in the corner
 - ![](icon/mr.png) **[Status Effect Timer]** - Overlay status effect HUD with time remaining
@@ -85,7 +89,9 @@
   - ![](icon/cf.png) **[Xaero's World Map]** - Scrollable world map, compatible with Xaero's Minimap
 
 [Axolotl Bucket Fix]: https://www.curseforge.com/minecraft/mc-mods/axolotl-bucket-fix
+[Chat Heads]: https://www.curseforge.com/minecraft/mc-mods/chat-heads
 [Detail Armor Bar]: https://modrinth.com/mod/detail-armor-bar
+[Enhanced Attack Indicator]: https://modrinth.com/mod/enhanced-attack-indicator
 [Inspecio]: https://modrinth.com/mod/inspecio
 [Pick Up Notifier]: https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier-fabric
 [Status Effect Timer]: https://modrinth.com/mod/statuseffecttimer
@@ -99,12 +105,14 @@
 - ![](icon/mr.png) **[Blur]** - Blurs the world behind opened GUIs
 - ![](icon/mr.png) **[Falling Leaves]** - Falling leaves particle effect to trees
 - ![](icon/mr.png) **[LambDynamicLights]** - Various ways to dynamically light your surroundings
+- ![](icon/cf.png) **[Smooth Swapping]** - Smoothly move items when transferring them
 - ![](icon/mr.png) **[Visuality]** - Visual improvements through additional particle effects
 
 [Better Clouds]: https://modrinth.com/mod/better-clouds
 [Blur]: https://modrinth.com/mod/blur-fabric
 [Falling Leaves]: https://modrinth.com/mod/fallingleaves
 [LambDynamicLights]: https://modrinth.com/mod/lambdynamiclights
+[Smooth Swapping]: https://www.curseforge.com/minecraft/mc-mods/smooth-swapping
 [Visuality]: https://modrinth.com/mod/visuality
 
 ### Sound

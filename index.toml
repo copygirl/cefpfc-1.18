@@ -60,6 +60,11 @@ hash = "e72273cbc32fb9fb946ec244e707a315ae91a7b816ac47444e5bd1cc664d29fa"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.toml"
+hash = "6d2eed826e0e42265dc96ccb05d8d1d22cf31ad4ee19a0ff9ae5008beddfcf4a"
+metafile = true
+
+[[files]]
 file = "mods/clickthrough.toml"
 hash = "b1c06ccdeba4c694b6dffd875272ceee33fe336bcb3f31ad5a3219633b2fe3f3"
 metafile = true
@@ -72,6 +77,16 @@ metafile = true
 [[files]]
 file = "mods/detail-armor-bar.toml"
 hash = "2836be90ea231d36f26eb597a74eed13c023ec57d0fc2e72d8a26b16578fd495"
+metafile = true
+
+[[files]]
+file = "mods/dimension-fix-some-forge-patches-ported.toml"
+hash = "92968ecdad91b20dfef8e39eb5c4ca17906e61ba6f56486ef1d0cfcf762ba262"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-attack-indicator.toml"
+hash = "0ad7e183c4b803999a0f45b67a63c32e6638a3f1b33e8a659ad0ca08651caecd"
 metafile = true
 
 [[files]]
@@ -207,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-resources.toml"
 hash = "eb6150a90b50591452feb9fd110e369f4d2eca3f10e1f3f2c0f262703a575899"
+metafile = true
+
+[[files]]
+file = "mods/smooth-swapping.toml"
+hash = "ec1036eda0d8c1913176735ecf473e4895dd1310c651bb1c05a104c39d03ae2c"
 metafile = true
 
 [[files]]
