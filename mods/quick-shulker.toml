@@ -1,0 +1,13 @@
+name = "Quick Shulker"
+filename = "quickshulker-1.3.6-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3614/231/quickshulker-1.3.6-1.18.jar"
+hash-format = "sha1"
+hash = "1087cb00ae125cec51b01b69936375655e2a5285"
+
+[update]
+[update.curseforge]
+file-id = 3614231
+project-id = 362669

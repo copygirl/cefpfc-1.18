@@ -1,3 +1,16 @@
+## Basics
+
+### Fabrication
+
+- Hold `C` = Crawl
+
+### Interactic
+
+- ![](icon/rmb.png) = Pick up dropped item from a distance
+- Hold `Q` = Throw single held item further
+- Hold `Ctrl` + `Q` = Throw whole held stack further
+- Hold `Shift` + `Q` = Throw held stack item by item
+
 ## Management
 
 ### Inventory Essentials
@@ -19,6 +32,14 @@
 - `U` = Show uses of hovered item
 - `Ctrl` + `O` = Toggle REI visibility
 
+### What the hell is that?
+
+- `Shift` + `R` = Show recipes for selected block
+- `Shift` + `U` = Show uses for selected block
+- `Numpad 0` = Open configuration screen
+- `Numpad 1` = Toggle HUD overlay
+- `Numpad 2` = Toggle liquid selection
+
 ### Xaero's World Map
 
 - `M` = Display world map screen
@@ -36,16 +57,12 @@
 - `Page Down` = Zoom out
 - Hold `End` = Enlarge minimap
 
-### What the hell is that?
-
-- `Shift` + `R` = Show recipes for selected block
-- `Shift` + `U` = Show uses for selected block
-- `Numpad 0` = Open configuration screen
-- `Numpad 1` = Toggle HUD overlay
-- `Numpad 2` = Toggle liquid selection
-
-## Graphics
+## Options
 
 ### Iris Shaders
 
 - `F8` = Toggle shaders on / off
+
+### Presence Footsteps
+
+- `F10` = Open Presence Footsteps settings

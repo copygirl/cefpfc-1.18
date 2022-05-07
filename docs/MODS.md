@@ -2,8 +2,9 @@
 
 ### Optimization / Fixes
 
+Changes that don't affect the gameplay but fix issues or improve performance.
+
 - ![](icon/mr.png) **[Alternate Current]** - Redstone optimizations
-- ![](icon/mr.png) **[Concurrent Chunk Management Engine]** - Chunk generation and loading optimizations
 - ![](icon/cf.png) **[Dimension Fix]** - Fix dimensions all being removed when one is removed
 - ![](icon/mr.png) **[Feature NBT Deadlock Be Gone]** - Fixes deadlocks caused by MC-246262
 - ![](icon/mr.png) **[FerriteCore]** - Memory usage optimizations
@@ -13,7 +14,6 @@
 - ![](icon/mr.png) **[Starlight]** - Rewrites lighting engine, improving performance and fixing errors
 
 [Alternate Current]: https://modrinth.com/mod/alternate-current
-[Concurrent Chunk Management Engine]: https://modrinth.com/mod/c2me-fabric
 [Dimension Fix]: https://www.curseforge.com/minecraft/mc-mods/dimension-fix-some-forge-patches-ported
 [Feature NBT Deadlock Be Gone]: https://modrinth.com/mod/feature-nbt-deadlock-be-gone
 [FerriteCore]: https://modrinth.com/mod/ferrite-core
@@ -21,6 +21,40 @@
 [LazyDFU]: https://modrinth.com/mod/lazydfu
 [Lithium]: https://modrinth.com/mod/lithium
 [Starlight]: https://modrinth.com/mod/starlight
+
+### Utility / Tweaks
+
+Utility mods that don't add any content.
+
+- ![](icon/mr.png) **[Cammie's Minecart Tweaks]** - Makes Minecarts more useful
+- ![](icon/gh.png) **[Fabrication]** - Massive amounts of tweaks and features
+- ![](icon/mr.png) **[Immersive Portals]** - See and walk through portals seamlessly
+- ![](icon/mr.png) **[Interactic]** - Item physics and throwing items
+- ![](icon/cf.png) **[Quick Shulker]** - Interact with shulkers and more in-
+
+[Cammie's Minecart Tweaks]: https://modrinth.com/mod/cammies-minecart-tweaks
+[Fabrication]: https://github.com/unascribed/Fabrication
+[Immersive Portals]: https://modrinth.com/mod/immersiveportals
+[Interactic]: https://modrinth.com/mod/interactic
+[Quick Shulker]: https://www.curseforge.com/minecraft/mc-mods/quick-shulker
+
+### Balance / Combat
+
+Mods that change the balance of the game somewhat.
+
+- ![](icon/cf.png) **[All Stackable]** - Make non-stackable items stackable
+- ![](icon/mr.png) **[ElytraProtection]** - Allows protection enchantments on elytras
+- ![](icon/mr.png) **[Expanded Axe Enchanting]** - Allows more sword enchantments on axes
+- ![](icon/mr.png) **[Grind Enchantments]** - Disenchant items onto books on the grindstone
+- ![](icon/mr.png) **[OverpoweredMending]** - Mending applies to all items in inventory
+- ![](icon/mr.png) **[Tax Free Levels]** - Fair enchantment and repair cost
+
+[All Stackable]: https://www.curseforge.com/minecraft/mc-mods/all-stackable
+[ElytraProtection]: https://modrinth.com/mod/elytraprotection
+[Expanded Axe Enchanting]: https://modrinth.com/mod/expanded-axe-enchanting
+[Grind Enchantments]: https://modrinth.com/mod/grind-enchantments
+[OverpoweredMending]: https://modrinth.com/mod/overpoweredmending
+[Tax Free Levels]: https://modrinth.com/mod/tax-free-levels
 
 
 ## Client-side mods

@@ -1,0 +1,13 @@
+name = "AllStackable (Fabric)"
+filename = "AllStackable-1.5.4-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3665/757/AllStackable-1.5.4-1.18.1.jar"
+hash-format = "sha1"
+hash = "f83c55c60bb8e0f1e4563c57fe1e4ebc45361f06"
+
+[update]
+[update.curseforge]
+file-id = 3665757
+project-id = 404312

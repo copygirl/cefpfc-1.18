@@ -5,6 +5,31 @@ file = "README.md"
 hash = "a78ea73631bb9afbb7caf4ff3b616b3d982ecde341be08f6d4084162d9fadffd"
 
 [[files]]
+file = "config/allstackable-global-config.json"
+hash = "1f2161af4c84646d59b10e330fd22e1379d53ffafa4364f67f8755d341e15cff"
+
+[[files]]
+file = "config/fabrication/features.ini"
+hash = "16f254ba5f04a2f8f6b4716d2efd708d772c841f62592c4b424866ca618cd907"
+
+[[files]]
+file = "config/fabrication/item_despawn.ini"
+hash = "e5ae0d344cdb6c024d797710f71f983fc21e9a1c8e7bfa7ee4f0e1932df9a8c3"
+
+[[files]]
+file = "config/immersive_portals_fabric.json"
+hash = "ff6e469ac0dddf5b236a151a5ae97b63803c7f84f3adc415e44121d0ddc0a3bd"
+
+[[files]]
+file = "config/interactic.json5"
+hash = "c56f9c834351e3def67084116823ff90935a3e342ecdc0d478efe5a2ff8bfa3f"
+
+[[files]]
+file = "mods/all-stackable.toml"
+hash = "8625c4608a637b9f3732dd70a3f43648103a9b0f5c90c949fbe9692b281dd1ad"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.toml"
 hash = "56b8d87e0544d89970c3a44cf6694e7bacc68a1a70d101fdef384df8461f084d"
 metafile = true
@@ -55,8 +80,8 @@ hash = "d225c6ff1ddf6be8fed438d159d802a7b23e536b7caed920450b836134b723dc"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.toml"
-hash = "e72273cbc32fb9fb946ec244e707a315ae91a7b816ac47444e5bd1cc664d29fa"
+file = "mods/cammies-minecart-tweaks.toml"
+hash = "79f3286302f5e1f5b72deb24e2425420aad6395f81bdfce80d567c943f68279c"
 metafile = true
 
 [[files]]
@@ -85,13 +110,33 @@ hash = "92968ecdad91b20dfef8e39eb5c4ca17906e61ba6f56486ef1d0cfcf762ba262"
 metafile = true
 
 [[files]]
+file = "mods/elytraprotection.toml"
+hash = "50a5d8e4abf3d9966d7871dcdb66885f9d804bbbe8af015244b3030e388da8cc"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-attack-indicator.toml"
 hash = "0ad7e183c4b803999a0f45b67a63c32e6638a3f1b33e8a659ad0ca08651caecd"
 metafile = true
 
 [[files]]
+file = "mods/expanded-axe-enchanting.toml"
+hash = "acf862d9adf5c93eead81b2ca67b9142cb6c7b5d79390d7b7c1a42b65f5892ae"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "f4e1da9342cd15c7c79835c952dce47b8786f3c393b9cf644ef3b5ed638ae052"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "738ffde3eab8e9d0c616e419862ff9c588bbd6009fad70953bd4d4697c88f202"
+metafile = true
+
+[[files]]
+file = "mods/fabrication.toml"
+hash = "827df49a2629a4c30b46c27428724436288f62a7badd0054b1bde3c1df5c2878"
 metafile = true
 
 [[files]]
@@ -120,6 +165,16 @@ hash = "40794ceb706feca938a7f019123288aebe63d82a996892c21d9f514d0c007455"
 metafile = true
 
 [[files]]
+file = "mods/grind-enchantments.toml"
+hash = "e144ac4d4830f8473733855b2bad29c30f842d01ab6ededa0d7d4ed8d5b69122"
+metafile = true
+
+[[files]]
+file = "mods/immersiveportals.toml"
+hash = "c194f0a2aea4d3ad17a3761aceb05999b0f0b6307580e2034b4173bd1715b906"
+metafile = true
+
+[[files]]
 file = "mods/indium.toml"
 hash = "735bb894e8fd0430de8fe331347ff24c5c64643bc65f2c040f7a82fb17e8b826"
 metafile = true
@@ -127,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/inspecio.toml"
 hash = "f616e150a1cedfa51c9a7d4571941e107a37ae184f2e8d6624fe56d68f2844c0"
+metafile = true
+
+[[files]]
+file = "mods/interactic.toml"
+hash = "e44b74c440a66bbb0f429d8439a4395885a68f7f31f29ccfc103a520587b0702"
 metafile = true
 
 [[files]]
@@ -185,6 +245,11 @@ hash = "a73f71d58f3a3c5f01e86f32209d03d002f73768eedff9cb6f9cbd150ecb6361"
 metafile = true
 
 [[files]]
+file = "mods/overpoweredmending.toml"
+hash = "d7ed037d48562a26d7321c98c05831b43fd92240ac9b3943d05af8b6a5b79586"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier-fabric.toml"
 hash = "040754c11df17ab74babd6254609e63cf058d9c3f742ddf4c608ae501008f1ee"
 metafile = true
@@ -197,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib-fabric.toml"
 hash = "446f0d5222e4ad02ded5ea6567b16932359888802283609d5e781895f3d61de4"
+metafile = true
+
+[[files]]
+file = "mods/quick-shulker.toml"
+hash = "d6943879408a1948058d0faf328701700ef1cce48c104d2d661b73f106d5e4fc"
 metafile = true
 
 [[files]]
@@ -247,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/statuseffecttimer.toml"
 hash = "3610cc0efd4c0bfa58b962452b7ee2c735f3c9a86c66b175a5c186258aaeecc7"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.toml"
+hash = "a2545ca26dcfa338761c72d2cafc001c1b27f27829cbef1e63bf16649e9a4f2d"
 metafile = true
 
 [[files]]

@@ -32,6 +32,7 @@ key_modifiers_key.hotbar.6:0,0,0
 key_modifiers_key.hotbar.7:0,0,0
 key_modifiers_key.hotbar.8:0,0,0
 key_modifiers_key.hotbar.9:0,0,0
+key_modifiers_[Fabrication] Crawl:0,0,0
 key_modifiers_inventoryhotswap.key.verticalscroll:0,0,0
 key_modifiers_inventoryhotswap.key.fullBarVerticalScroll:0,0,0
 key_modifiers_key.amecs.toggle_auto_jump:0,0,0
@@ -42,8 +43,10 @@ key_modifiers_key.amecs.toggle_right_sleeve:0,0,0
 key_modifiers_key.amecs.toggle_left_pants_leg:0,0,0
 key_modifiers_key.amecs.toggle_right_pants_leg:0,0,0
 key_modifiers_key.amecs.toggle_hat:0,0,0
+key_modifiers_key.interactic.pickup_item:0,0,0
 key_modifiers_keybind.invmove.toggleMove:0,0,0
 key_modifiers_presencefootsteps.settings.key:0,0,0
+key_modifiers_key.quickshulker.config.keybinding:0,0,0
 key_modifiers_key.waila.config:0,0,0
 key_modifiers_key.waila.show_overlay:0,0,0
 key_modifiers_key.waila.toggle_liquid:0,0,0
