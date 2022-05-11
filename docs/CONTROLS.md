@@ -1,4 +1,4 @@
-## Basics
+## Gameplay
 
 ### Fabrication
 
@@ -10,6 +10,19 @@
 - Hold `Q` = Throw single held item further
 - Hold `Ctrl` + `Q` = Throw whole held stack further
 - Hold `Shift` + `Q` = Throw held stack item by item
+
+### The Guild
+
+- `J` = Open Guild screen
+
+### Botania
+
+- `R` = Corporea request
+
+### Industrial Revolution
+
+- `K` = Open modular item configuration screen
+- `G` = Toggle gamer axe on / off
 
 ## Management
 

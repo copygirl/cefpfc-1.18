@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "a78ea73631bb9afbb7caf4ff3b616b3d982ecde341be08f6d4084162d9fadffd"
+hash = "ed71f5d66610d4ce5268ece907d5aa92026613556f835dde29cb4281e64ac559"
 
 [[files]]
 file = "config/additional-additions-config.json"
@@ -14,7 +14,7 @@ hash = "1f2161af4c84646d59b10e330fd22e1379d53ffafa4364f67f8755d341e15cff"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "79d25e2e977530cd338323bdce49293a1787e93e4e02b126f2b17005b39bb630"
+hash = "16f254ba5f04a2f8f6b4716d2efd708d772c841f62592c4b424866ca618cd907"
 
 [[files]]
 file = "config/fabrication/item_despawn.ini"

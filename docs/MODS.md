@@ -306,5 +306,3 @@ Mods that change world generation or add primarily structures / biomes to it.
 
 [Presence Footsteps]: https://modrinth.com/mod/presence-footsteps
 [Resounding]: https://modrinth.com/mod/resounding
-
-

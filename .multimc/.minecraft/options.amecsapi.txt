@@ -43,6 +43,10 @@ key_modifiers_key.amecs.toggle_right_sleeve:0,0,0
 key_modifiers_key.amecs.toggle_left_pants_leg:0,0,0
 key_modifiers_key.amecs.toggle_right_pants_leg:0,0,0
 key_modifiers_key.amecs.toggle_hat:0,0,0
+key_modifiers_key.botania_corporea_request:0,0,0
+key_modifiers_key.guild.quest_screen:0,0,0
+key_modifiers_key.indrev.modular:0,0,0
+key_modifiers_key.indrev.gamer_axe_toggle:0,0,0
 key_modifiers_key.interactic.pickup_item:0,0,0
 key_modifiers_keybind.invmove.toggleMove:0,0,0
 key_modifiers_presencefootsteps.settings.key:0,0,0
