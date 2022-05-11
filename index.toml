@@ -29,6 +29,10 @@ file = "config/interactic.json5"
 hash = "f7070ef9e08904801aec534983522ad54a40081705cc5ffec67ab1675832b502"
 
 [[files]]
+file = "config/soulbound.json5"
+hash = "36b7d3a8aeece6e5520ea11eaf26ea33d2ab1db6763632ad9754a13dafde0fb0"
+
+[[files]]
 file = "mods/addadd.toml"
 hash = "5aaa96444fe4ef2d6e723493d1d5f8727929f588f55fcbaea966dd33545f8082"
 metafile = true
@@ -61,6 +65,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-fabric.toml"
 hash = "fd6f7453e6b6a66b26d32fc6da52d2545e7aadb1b7ccdacb7674ac3d4066a28a"
+metafile = true
+
+[[files]]
+file = "mods/artifacts-fabric.toml"
+hash = "98f009c592b24c8273350bf164b58140cbfd41d72046f3997e135000de258f13"
 metafile = true
 
 [[files]]
@@ -124,6 +133,11 @@ hash = "8201c0a16ace201405172e56292843cc99d8d675f1e323684943b9cee393acb1"
 metafile = true
 
 [[files]]
+file = "mods/collective-fabric.toml"
+hash = "efac426e50a166afaee23320b09fe17425eaa94016448dbb4fec2b0a6ef5e2b4"
+metafile = true
+
+[[files]]
 file = "mods/comforts-fabric.toml"
 hash = "2fb4163e39af451fb4de5e8ac4c8c72a6cebe6d89b923babad839177c4597cd5"
 metafile = true
@@ -146,6 +160,16 @@ metafile = true
 [[files]]
 file = "mods/dimension-fix-some-forge-patches-ported.toml"
 hash = "92968ecdad91b20dfef8e39eb5c4ca17906e61ba6f56486ef1d0cfcf762ba262"
+metafile = true
+
+[[files]]
+file = "mods/double-jump-mod.toml"
+hash = "4b18a400297bd31a104b400bf6299e41773975bf6b94ea2fd0f69761fc0dad7c"
+metafile = true
+
+[[files]]
+file = "mods/earth2java.toml"
+hash = "82e315b100b9ce182fc67e7b0a2bdde3f6807efbf5b33e4970f2c6abc3bbcf61"
 metafile = true
 
 [[files]]
@@ -204,6 +228,11 @@ hash = "2949f4bfcdfea379f398581fe92f06e6866f001610cc2ef7fd6ba5e5d9ae497a"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.toml"
+hash = "f107c40755ac9df0ed61b590c80e604ec476cbbb2b1e0b0d53a4aedf576a829a"
+metafile = true
+
+[[files]]
 file = "mods/grass-kiss.toml"
 hash = "40794ceb706feca938a7f019123288aebe63d82a996892c21d9f514d0c007455"
 metafile = true
@@ -211,6 +240,11 @@ metafile = true
 [[files]]
 file = "mods/grind-enchantments.toml"
 hash = "e144ac4d4830f8473733855b2bad29c30f842d01ab6ededa0d7d4ed8d5b69122"
+metafile = true
+
+[[files]]
+file = "mods/guardians-galore.toml"
+hash = "dffce4f3bba8e9c8f1fc6f1000b7ea3d9a42f60fb19c4dc6013ede07d6753f0d"
 metafile = true
 
 [[files]]
@@ -231,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/indium.toml"
 hash = "735bb894e8fd0430de8fe331347ff24c5c64643bc65f2c040f7a82fb17e8b826"
+metafile = true
+
+[[files]]
+file = "mods/indypets.toml"
+hash = "1cf062b319519dcf0c7bee3e25f9cf0ff24b6eb1b94b1f643ff57a4a07de1f8c"
 metafile = true
 
 [[files]]
@@ -309,6 +348,11 @@ hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
 metafile = true
 
 [[files]]
+file = "mods/mavm.toml"
+hash = "7592dfc22f2b75f056e4853dc5e315c4b3136142487147338621e40250d87de2"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "a73f71d58f3a3c5f01e86f32209d03d002f73768eedff9cb6f9cbd150ecb6361"
 metafile = true
@@ -349,6 +393,11 @@ hash = "176d41d60db1de6b354d0246131263421233695d54d41f44ff664f2ac26cf151"
 metafile = true
 
 [[files]]
+file = "mods/rats-mischief.toml"
+hash = "e1df96c404d6a0568244e376d263e89a13c9fcafa5e421586d571d70538fb777"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "d935b491016306e60b08bc234cc978ac84412d84d1ae5a9b6f8878a09ea25202"
 metafile = true
@@ -356,6 +405,11 @@ metafile = true
 [[files]]
 file = "mods/resounding.toml"
 hash = "8759885d683f08dc663620148110158195fabf45c2c8424844204cd653b3892d"
+metafile = true
+
+[[files]]
+file = "mods/respawnable-pets.toml"
+hash = "2ab79ba02af45a26a0e1f10cff55cff8891dd6df5b6fc198ebd5f186d8363d2f"
 metafile = true
 
 [[files]]
@@ -384,6 +438,11 @@ hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
 metafile = true
 
 [[files]]
+file = "mods/soulbound.toml"
+hash = "f5b21d311ee4f99c52c6abbba8d099cfb17e818845df3b1e7203b154b4394056"
+metafile = true
+
+[[files]]
 file = "mods/starlight.toml"
 hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
 metafile = true
@@ -404,8 +463,33 @@ hash = "61437323b2bcc7ea579161059f7128d2aad4a38188a0b7a3cbd031165c6b8b2b"
 metafile = true
 
 [[files]]
+file = "mods/trinket-of-undying-fabric.toml"
+hash = "3d1313ecd9fb1544750f456be404f01c4d4569882a0dff6d1df17d8db4ffe251"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.toml"
+hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
+metafile = true
+
+[[files]]
+file = "mods/vanity.toml"
+hash = "ef139a336d085b5748f37caf5192b502252a3058f0950fe0b19b9ba029db6031"
+metafile = true
+
+[[files]]
+file = "mods/villager-names-fabric-version.toml"
+hash = "31dac64b0e4229cbaa60ef01173cb831e1d4ff64128e8dba75eb7ce1229790b6"
+metafile = true
+
+[[files]]
 file = "mods/visuality.toml"
 hash = "c47c339948a3dff50f1b879d6748e949c85e1a79c094aa639886b76c5b7301c8"
+metafile = true
+
+[[files]]
+file = "mods/wolves-with-armor.toml"
+hash = "0bf340d888feea6e0e7c3f6c41b289629c4337cd206aca3401c8cb53916596a7"
 metafile = true
 
 [[files]]

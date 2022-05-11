@@ -1,0 +1,13 @@
+name = "Respawnable Pets"
+filename = "respawnablepets-1.18-4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3687/422/respawnablepets-1.18-4.jar"
+hash-format = "sha1"
+hash = "8a2a2fba12138b08f19037fc2c026eac30315ae0"
+
+[update]
+[update.curseforge]
+file-id = 3687422
+project-id = 319582

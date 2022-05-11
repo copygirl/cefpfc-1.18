@@ -94,6 +94,44 @@ Mods that primarily add building / decoration content.
 [Decorative Blocks]: https://www.curseforge.com/minecraft/mc-mods/decorative-blocks
 [DeepslateCutting]: https://modrinth.com/mod/deepslatecutting
 
+### Equipment
+
+Mods that add usable / wearable items and enchantments.
+
+- ![](icon/cf.png) **[Artifacts]** - Explore for trinkets with unique effects
+- ![](icon/cf.png) **[Double Jump Mod]** - Boots enchantment for extra mid-air jumps
+- ![](icon/mr.png) **[Soulbound]** - Enchantment for keeping items beyond death
+- ![](icon/cf.png) **[Trinket of Undying]** - Equip totem of undying as a trinket
+- ![](icon/mr.png) **[VanilySlots]** - Trinket slots for cosmetic armor
+
+[Artifacts]: https://www.curseforge.com/minecraft/mc-mods/artifacts-fabric
+[Double Jump Mod]: https://www.curseforge.com/minecraft/mc-mods/double-jump-mod
+[Soulbound]: https://modrinth.com/mod/soulbound
+[Trinket of Undying]: https://www.curseforge.com/minecraft/mc-mods/trinket-of-undying-fabric
+[VanilySlots]: https://modrinth.com/mod/vanity
+
+### Mobs
+
+Mods that add new mobs or deal with existing ones.
+
+- ![](icon/mr.png) **[Earth2Java]** - Unique mob variants portal from Minecraft Earth
+- ![](icon/cf.png) **[Guardians Galore]** - Cute familiars that force hostile mobs to despawn
+- ![](icon/mr.png) **[Independent Pets]** - Let tamed animals roam
+- ![](icon/cf.png) **[More Axolotl Variants]** - Adds more cute, colorful axolotl variants
+- ![](icon/cf.png) **[Rat's Mischief]** - Cute little creatures
+- ![](icon/cf.png) **[Respawnable Pets]** - Tamed animals respawn when you sleep
+- ![](icon/cf.png) **[Villager Names]** - Random names for villagers
+- ![](icon/cf.png) **[Wolves With Armor]** - Enchantable armor for wolves
+
+[Earth2Java]: https://modrinth.com/mod/earth2java
+[Guardians Galore]: https://www.curseforge.com/minecraft/mc-mods/guardians-galore
+[Independent Pets]: https://modrinth.com/mod/indypets
+[More Axolotl Variants]: https://www.curseforge.com/minecraft/mc-mods/mavm
+[Rat's Mischief]: https://www.curseforge.com/minecraft/mc-mods/rats-mischief
+[Respawnable Pets]: https://www.curseforge.com/minecraft/mc-mods/respawnable-pets
+[Villager Names]: https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric-version
+[Wolves With Armor]: https://www.curseforge.com/minecraft/mc-mods/wolves-with-armor
+
 
 ## Client-side mods
 

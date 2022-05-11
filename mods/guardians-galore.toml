@@ -1,0 +1,13 @@
+name = "Guardians Galore"
+filename = "GuardiansGalore-1.18.2-3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3695/866/GuardiansGalore-1.18.2-3.0.jar"
+hash-format = "sha1"
+hash = "2ddd21ecee151b76f4dc93720a880c59e907e3ac"
+
+[update]
+[update.curseforge]
+file-id = 3695866
+project-id = 483073
