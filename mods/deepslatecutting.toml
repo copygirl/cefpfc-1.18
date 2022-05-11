@@ -1,0 +1,13 @@
+name = "DeepslateCutting Fabric"
+filename = "deepslatecutting-1.18.2-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IiuFShHs/versions/1.3.2/deepslatecutting-1.18.2-1.3.2.jar"
+hash-format = "sha1"
+hash = "ad3131629f130ef5c184ab9fc313c9359baf6cd1"
+
+[update]
+[update.modrinth]
+mod-id = "IiuFShHs"
+version = "1ZhBNDAL"

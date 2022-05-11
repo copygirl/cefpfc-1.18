@@ -56,6 +56,44 @@ Mods that change the balance of the game somewhat.
 [OverpoweredMending]: https://modrinth.com/mod/overpoweredmending
 [Tax Free Levels]: https://modrinth.com/mod/tax-free-levels
 
+### Various Content
+
+Mods that add things but don't really fit into any other category.
+
+- ![](icon/mr.png) **[Additional Additions]** - Adds more uses for copper and amethyst
+- ![](icon/mr.png) **[Animal Feeding Trough]** - Feeds and breeds animals
+- ![](icon/cf.png) **[Comforts]** - Sleep without setting spawn point, nap the day away
+- ![](icon/cf.png) **[Farmer's Delight]** - Expands farming and cooking
+- ![](icon/mr.png) **[The Guild]** - Professions and quests from
+- ![](icon/mr.png) **[Kiln]** - More quickly smelt stone, sand, clay, ...
+- ![](icon/mr.png) **[Leaves Us In Peace]** - Quicker leaf decay
+- ![](icon/cf.png) **[Linked Storage]** - Chests and handheld bags that have linked inventories
+- ![](icon/mr.png) **[Phonos]** - Wireless note blocks and jukeboxes
+
+[Additional Additions]: https://modrinth.com/mod/addadd
+[Animal Feeding Trough]: https://modrinth.com/mod/animal_feeding_trough
+[Comforts]: https://www.curseforge.com/minecraft/mc-mods/comforts-fabric
+[Farmer's Delight]: https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric
+[The Guild]: https://modrinth.com/mod/guild
+[Kiln]: https://modrinth.com/mod/kiln
+[Leaves Us In Peace]: https://modrinth.com/mod/leaves-us-in-peace
+[Linked Storage]: https://www.curseforge.com/minecraft/mc-mods/linked-storage
+[Phonos]: https://modrinth.com/mod/phonos
+
+### Decoration
+
+Mods that primarily add building / decoration content.
+
+- ![](icon/mr.png) **[Adorn]** - Furniture and other decorations
+- ![](icon/cf.png) **[Bedspreads]** - Customize beds with banners
+- ![](icon/cf.png) **[Decorative Blocks]** - Adds several decoration blocks
+- ![](icon/mr.png) **[DeepslateCutting]** - Allows (silk-touched) deepslate to be cut
+
+[Adorn]: https://modrinth.com/mod/adorn
+[Bedspreads]: https://www.curseforge.com/minecraft/mc-mods/bedspreads-fabric
+[Decorative Blocks]: https://www.curseforge.com/minecraft/mc-mods/decorative-blocks
+[DeepslateCutting]: https://modrinth.com/mod/deepslatecutting
+
 
 ## Client-side mods
 
@@ -79,12 +117,14 @@ Mods that change the balance of the game somewhat.
 
 ### Optimization / Fixes
 
+- ![](icon/mr.png) **[Here be no Dragons!]** - Disables "experimental world settings" warning
 - ![](icon/cf.png) **[Item Model Fix]** - Fixes gaps in item models
 - ![](icon/mr.png) **[Sodium]** - Rendering engine optimizations
   - ![](icon/mr.png) **[Indium]** - Fabric Rendering API support on top of Sodium
   - ![](icon/mr.png) **[Reese's Sodium Options]** - Alternative options menu for Sodium
 - ![](icon/mr.png) **[TieFix]** - Fixes for some annoying bugs
 
+[Here be no Dragons!]: https://modrinth.com/mod/here-be-no-dragons
 [Item Model Fix]: https://www.curseforge.com/minecraft/mc-mods/item-model-fix
 [Sodium]: https://modrinth.com/mod/sodium
 [Indium]: https://modrinth.com/mod/indium

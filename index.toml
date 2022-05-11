@@ -5,12 +5,16 @@ file = "README.md"
 hash = "a78ea73631bb9afbb7caf4ff3b616b3d982ecde341be08f6d4084162d9fadffd"
 
 [[files]]
+file = "config/additional-additions-config.json"
+hash = "37c534c7f9304e480c517a2e2e3458e24cc0059234c4f4873c4e89715045b491"
+
+[[files]]
 file = "config/allstackable-global-config.json"
 hash = "1f2161af4c84646d59b10e330fd22e1379d53ffafa4364f67f8755d341e15cff"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "16f254ba5f04a2f8f6b4716d2efd708d772c841f62592c4b424866ca618cd907"
+hash = "79d25e2e977530cd338323bdce49293a1787e93e4e02b126f2b17005b39bb630"
 
 [[files]]
 file = "config/fabrication/item_despawn.ini"
@@ -22,7 +26,17 @@ hash = "ff6e469ac0dddf5b236a151a5ae97b63803c7f84f3adc415e44121d0ddc0a3bd"
 
 [[files]]
 file = "config/interactic.json5"
-hash = "c56f9c834351e3def67084116823ff90935a3e342ecdc0d478efe5a2ff8bfa3f"
+hash = "f7070ef9e08904801aec534983522ad54a40081705cc5ffec67ab1675832b502"
+
+[[files]]
+file = "mods/addadd.toml"
+hash = "5aaa96444fe4ef2d6e723493d1d5f8727929f588f55fcbaea966dd33545f8082"
+metafile = true
+
+[[files]]
+file = "mods/adorn.toml"
+hash = "cddfd55242436c0e571f7f3620d997a800d65e8aa17e6a8e866b48e03019d0de"
+metafile = true
 
 [[files]]
 file = "mods/all-stackable.toml"
@@ -37,6 +51,11 @@ metafile = true
 [[files]]
 file = "mods/amecs.toml"
 hash = "5caf6d17836ff2e360d7bfa1194109dab1b0aae2e86de4d8c131b2200b6c5f1d"
+metafile = true
+
+[[files]]
+file = "mods/animal_feeding_trough.toml"
+hash = "378d61c3fdb3a5839a3b4f8e3e86bb44c040cc2be0aa5566eab8e03c01b7c4c0"
 metafile = true
 
 [[files]]
@@ -57,6 +76,11 @@ metafile = true
 [[files]]
 file = "mods/balm-fabric.toml"
 hash = "f16e09ced52586796952de5d6bf341b4ae079c1bed915612fb82c297bb0cb9e3"
+metafile = true
+
+[[files]]
+file = "mods/bedspreads-fabric.toml"
+hash = "335ae666f95c0916d3573e35daba855f0dfe2f39e9b5a16a35b7318ab24107a2"
 metafile = true
 
 [[files]]
@@ -97,6 +121,21 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.toml"
 hash = "8201c0a16ace201405172e56292843cc99d8d675f1e323684943b9cee393acb1"
+metafile = true
+
+[[files]]
+file = "mods/comforts-fabric.toml"
+hash = "2fb4163e39af451fb4de5e8ac4c8c72a6cebe6d89b923babad839177c4597cd5"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks.toml"
+hash = "d0319c8f0ecb27bf8830de7625794e14ee5cde25e5a9034c7229026be22e1f09"
+metafile = true
+
+[[files]]
+file = "mods/deepslatecutting.toml"
+hash = "15e4b2b9367625d7753b951a2f1d2b9ddab358db62a1d4dbc85e9a78e47a0f96"
 metafile = true
 
 [[files]]
@@ -145,6 +184,11 @@ hash = "a2f5ac9241681699e8bcd7da4c90e9899686290f883a63c56f7009f18f731e7e"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-fabric.toml"
+hash = "7d72a95f911c353ef81e226371fc59267805b9510235777b93462dd841df3723"
+metafile = true
+
+[[files]]
 file = "mods/feature-nbt-deadlock-be-gone.toml"
 hash = "eeeb1b93d454b1bebe407c191c1fd90eacf82456bf41585ca90d8fc5c4e84653"
 metafile = true
@@ -167,6 +211,16 @@ metafile = true
 [[files]]
 file = "mods/grind-enchantments.toml"
 hash = "e144ac4d4830f8473733855b2bad29c30f842d01ab6ededa0d7d4ed8d5b69122"
+metafile = true
+
+[[files]]
+file = "mods/guild.toml"
+hash = "b4745e1dcd7e3869a0047dfcb78eb8cd7d5b528bfb97e544aecfe251cb51f2bc"
+metafile = true
+
+[[files]]
+file = "mods/here-be-no-dragons.toml"
+hash = "b521cb1efedc7ce0443e6df6ea00c10beb0000c769f36812840ba83abc7aa520"
 metafile = true
 
 [[files]]
@@ -220,6 +274,11 @@ hash = "9ab8949bcb4280b1a4b97d40ded17b4786a6c4db1271c121a7fc52ea6f838e0e"
 metafile = true
 
 [[files]]
+file = "mods/kiln.toml"
+hash = "2bd4443325ef2df10ef19de54454c29e15176a875ec361220762ba3bdbc81112"
+metafile = true
+
+[[files]]
 file = "mods/krypton.toml"
 hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
@@ -235,6 +294,16 @@ hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
 
 [[files]]
+file = "mods/leaves-us-in-peace.toml"
+hash = "d779c647ab2cfa5a640173405966aa930333ce9977e7004c3592f226fb0ff08b"
+metafile = true
+
+[[files]]
+file = "mods/linked-storage.toml"
+hash = "18f6a4da7dc8188facb06bcc34edb3ec06a0c1b861dfa40fda491df75bd1c439"
+metafile = true
+
+[[files]]
 file = "mods/lithium.toml"
 hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
 metafile = true
@@ -247,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/overpoweredmending.toml"
 hash = "d7ed037d48562a26d7321c98c05831b43fd92240ac9b3943d05af8b6a5b79586"
+metafile = true
+
+[[files]]
+file = "mods/phonos.toml"
+hash = "848b034cd45ed1aaaa9830f24a9fa33d1b7cd1a5f8a785bbcbc80cad410b6e00"
 metafile = true
 
 [[files]]
