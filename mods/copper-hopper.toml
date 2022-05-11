@@ -1,0 +1,13 @@
+name = "Copper Hopper"
+filename = "copperhopper-0.0.7+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3768/1/copperhopper-0.0.7+1.18.2.jar"
+hash-format = "sha1"
+hash = "a0ef49f12737e18de4694d475f15d4fec25332c1"
+
+[update]
+[update.curseforge]
+file-id = 3768001
+project-id = 575851

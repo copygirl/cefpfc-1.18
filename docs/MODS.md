@@ -66,7 +66,6 @@ Mods that add things but don't really fit into any other category.
 - ![](icon/cf.png) **[Farmer's Delight]** - Expands farming and cooking
 - ![](icon/mr.png) **[The Guild]** - Professions and quests from
 - ![](icon/mr.png) **[Kiln]** - More quickly smelt stone, sand, clay, ...
-- ![](icon/mr.png) **[Leaves Us In Peace]** - Quicker leaf decay
 - ![](icon/cf.png) **[Linked Storage]** - Chests and handheld bags that have linked inventories
 - ![](icon/mr.png) **[Phonos]** - Wireless note blocks and jukeboxes
 
@@ -76,7 +75,6 @@ Mods that add things but don't really fit into any other category.
 [Farmer's Delight]: https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric
 [The Guild]: https://modrinth.com/mod/guild
 [Kiln]: https://modrinth.com/mod/kiln
-[Leaves Us In Peace]: https://modrinth.com/mod/leaves-us-in-peace
 [Linked Storage]: https://www.curseforge.com/minecraft/mc-mods/linked-storage
 [Phonos]: https://modrinth.com/mod/phonos
 
@@ -131,6 +129,36 @@ Mods that add new mobs or deal with existing ones.
 [Respawnable Pets]: https://www.curseforge.com/minecraft/mc-mods/respawnable-pets
 [Villager Names]: https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric-version
 [Wolves With Armor]: https://www.curseforge.com/minecraft/mc-mods/wolves-with-armor
+
+### Technology
+
+Mods that focus on the technical aspect, including logic and redstone.
+
+- ![](icon/mr.png) **[Applied Energistics 2]** - Digital storage solution and auto-crafting
+  - ![](icon/cf.png) **[Applied Botanics]** - Store and use Botania mana through AE2
+- ![](icon/cf.png) **[Copper Hopper]** - Simple Vanilla-style way to sort items
+- ![](icon/cf.png) **[Ducts]** - Easier and cheaper hopper-like chaining
+- ![](icon/cf.png) **[EasyAutoCrafting]** - Vanilla-style auto-crafting with only Vanilla blocks
+- ![](icon/cf.png) **[Industrial Revolution]** - A more traditional tech mod with lots of machines
+- ![](icon/cf.png) **[RSWires]** - Transfer redstone signals through wires and cables
+
+[Applied Energistics 2]: https://modrinth.com/mod/ae2
+[Applied Botanics]: https://www.curseforge.com/minecraft/mc-mods/applied-botanics-addon
+[Copper Hopper]: https://www.curseforge.com/minecraft/mc-mods/copper-hopper
+[Ducts]: https://www.curseforge.com/minecraft/mc-mods/ducts
+[EasyAutoCrafting]: https://www.curseforge.com/minecraft/mc-mods/easyautocrafting
+[Industrial Revolution]: https://www.curseforge.com/minecraft/mc-mods/industrial-revolution
+[RSWires]: https://www.curseforge.com/minecraft/mc-mods/rswires
+
+### Magic
+
+Mods with a magical theme.
+
+- ![](icon/cf.png) **[Botania]** - Magic mod revolving around flowers
+- ![](icon/mr.png) **[Spectrum]** - Story driven, exploration-based magic
+
+[Botania]: https://www.curseforge.com/minecraft/mc-mods/botania-fabric
+[Spectrum]: https://modrinth.com/mod/spectrum
 
 
 ## Client-side mods

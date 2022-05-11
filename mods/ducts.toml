@@ -1,0 +1,13 @@
+name = "Ducts"
+filename = "ducts-1.1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3751/910/ducts-1.1.7.jar"
+hash-format = "sha1"
+hash = "079e239194944a0ac7db8ead9e68e91d1444b9c0"
+
+[update]
+[update.curseforge]
+file-id = 3751910
+project-id = 400219

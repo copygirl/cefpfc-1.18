@@ -29,6 +29,10 @@ file = "config/interactic.json5"
 hash = "f7070ef9e08904801aec534983522ad54a40081705cc5ffec67ab1675832b502"
 
 [[files]]
+file = "config/lithium.properties"
+hash = "69ccdf3762371c9bce1725ec4be7beabfaf7bbaf3d26c145a9b3ce70798d0757"
+
+[[files]]
 file = "config/soulbound.json5"
 hash = "36b7d3a8aeece6e5520ea11eaf26ea33d2ab1db6763632ad9754a13dafde0fb0"
 
@@ -40,6 +44,11 @@ metafile = true
 [[files]]
 file = "mods/adorn.toml"
 hash = "cddfd55242436c0e571f7f3620d997a800d65e8aa17e6a8e866b48e03019d0de"
+metafile = true
+
+[[files]]
+file = "mods/ae2.toml"
+hash = "55041034a6e163fe5949152ce6eb78095ecbea8698e91cd604d4eb5c42244fe9"
 metafile = true
 
 [[files]]
@@ -60,6 +69,11 @@ metafile = true
 [[files]]
 file = "mods/animal_feeding_trough.toml"
 hash = "378d61c3fdb3a5839a3b4f8e3e86bb44c040cc2be0aa5566eab8e03c01b7c4c0"
+metafile = true
+
+[[files]]
+file = "mods/applied-botanics-addon.toml"
+hash = "6b421d9aee7af1f2be74979f63a9e23540560fff002235a85ea0436538cae700"
 metafile = true
 
 [[files]]
@@ -108,6 +122,11 @@ hash = "0620665702aeb092254ec3ee087726f977b9e9971d65c72dd8bb540a22703f4e"
 metafile = true
 
 [[files]]
+file = "mods/botania-fabric.toml"
+hash = "8a0cd4f7a1c4e136b0819c5395d549bfd717d60ac5cbdd10ea60ad67623fb8ed"
+metafile = true
+
+[[files]]
 file = "mods/brb.toml"
 hash = "d225c6ff1ddf6be8fed438d159d802a7b23e536b7caed920450b836134b723dc"
 metafile = true
@@ -143,6 +162,11 @@ hash = "2fb4163e39af451fb4de5e8ac4c8c72a6cebe6d89b923babad839177c4597cd5"
 metafile = true
 
 [[files]]
+file = "mods/copper-hopper.toml"
+hash = "81a2d1adaac0685a492b55c2cf323aaa82a2a2d7cbe79b0cb57f8eb7ad33d41c"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.toml"
 hash = "d0319c8f0ecb27bf8830de7625794e14ee5cde25e5a9034c7229026be22e1f09"
 metafile = true
@@ -168,8 +192,18 @@ hash = "4b18a400297bd31a104b400bf6299e41773975bf6b94ea2fd0f69761fc0dad7c"
 metafile = true
 
 [[files]]
+file = "mods/ducts.toml"
+hash = "93523507ad15e992787ab43240cc04df1404958d28e64805a700eb815bedd07b"
+metafile = true
+
+[[files]]
 file = "mods/earth2java.toml"
 hash = "82e315b100b9ce182fc67e7b0a2bdde3f6807efbf5b33e4970f2c6abc3bbcf61"
+metafile = true
+
+[[files]]
+file = "mods/easyautocrafting.toml"
+hash = "e147d800bd0c5d3ed33475d7ddf4f9d6ce41cf3610870c0e6d823ae2c3c5b8d2"
 metafile = true
 
 [[files]]
@@ -268,6 +302,11 @@ hash = "735bb894e8fd0430de8fe331347ff24c5c64643bc65f2c040f7a82fb17e8b826"
 metafile = true
 
 [[files]]
+file = "mods/industrial-revolution.toml"
+hash = "24a71532eeed07c1e9be27386769f91202ab5c9441f6b687b76d2ee29638a26f"
+metafile = true
+
+[[files]]
 file = "mods/indypets.toml"
 hash = "1cf062b319519dcf0c7bee3e25f9cf0ff24b6eb1b94b1f643ff57a4a07de1f8c"
 metafile = true
@@ -333,11 +372,6 @@ hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
 
 [[files]]
-file = "mods/leaves-us-in-peace.toml"
-hash = "d779c647ab2cfa5a640173405966aa930333ce9977e7004c3592f226fb0ff08b"
-metafile = true
-
-[[files]]
 file = "mods/linked-storage.toml"
 hash = "18f6a4da7dc8188facb06bcc34edb3ec06a0c1b861dfa40fda491df75bd1c439"
 metafile = true
@@ -360,6 +394,16 @@ metafile = true
 [[files]]
 file = "mods/overpoweredmending.toml"
 hash = "d7ed037d48562a26d7321c98c05831b43fd92240ac9b3943d05af8b6a5b79586"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.toml"
+hash = "8c752fa462607344229492d00c45ccd51a209f9338562e2d95b84d88d5cbcf1f"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.toml"
+hash = "cb8b77a8abe8fce770d8628a886e8d1bd3a2a7b93bd406025e521a61696a8547"
 metafile = true
 
 [[files]]
@@ -428,6 +472,11 @@ hash = "eb6150a90b50591452feb9fd110e369f4d2eca3f10e1f3f2c0f262703a575899"
 metafile = true
 
 [[files]]
+file = "mods/rswires.toml"
+hash = "721fc188feb45a04026685a6b11af5b6bd41d99e4e7e8095e797222e473cd5fb"
+metafile = true
+
+[[files]]
 file = "mods/smooth-swapping.toml"
 hash = "ec1036eda0d8c1913176735ecf473e4895dd1310c651bb1c05a104c39d03ae2c"
 metafile = true
@@ -440,6 +489,11 @@ metafile = true
 [[files]]
 file = "mods/soulbound.toml"
 hash = "f5b21d311ee4f99c52c6abbba8d099cfb17e818845df3b1e7203b154b4394056"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.toml"
+hash = "3e303c68ff1e53bee2df6ecd75ed6e6d8c546cb6d976a43a8d4aa65e8d13112e"
 metafile = true
 
 [[files]]

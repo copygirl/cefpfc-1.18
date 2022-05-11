@@ -1,0 +1,13 @@
+name = "EasyAutoCrafting"
+filename = "easy-auto-crafting-1.4+1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3783/4/easy-auto-crafting-1.4+1.18.jar"
+hash-format = "sha1"
+hash = "e72b19953bc8e2c327df8d4523ea84b0ff44ad8e"
+
+[update]
+[update.curseforge]
+file-id = 3783004
+project-id = 462134
