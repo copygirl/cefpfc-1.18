@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.toml"
-hash = "56b8d87e0544d89970c3a44cf6694e7bacc68a1a70d101fdef384df8461f084d"
+hash = "e8de3f1e0caae9eb435a55971a724a39a9c9983fd55aaefaf6f3b1e329106959"
 metafile = true
 
 [[files]]
@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "612eb5b02d9f18e9c5327bb96373c692c72c9ebbae3541eea03feda76dcd764a"
+hash = "fd6f7453e6b6a66b26d32fc6da52d2545e7aadb1b7ccdacb7674ac3d4066a28a"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.toml"
-hash = "34eec39f7c6dd68d98ce7ca916f4779c6f284d23593889faeeafc337b17b120c"
+hash = "a2f5ac9241681699e8bcd7da4c90e9899686290f883a63c56f7009f18f731e7e"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "10444c645865870593097d6081710d123e0dd4f2f6b740d7f990adad4128f391"
+hash = "b2397940f23e24b49a1d08dbfe4aae584f66bededf5e591f35c097e3dbea6d2d"
 metafile = true
 
 [[files]]
