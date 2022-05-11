@@ -1,0 +1,13 @@
+name = "Awesome Dungeon - Fabric"
+filename = "AwesomeDungeonFabric-1.18.1-2.0.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3745/929/AwesomeDungeonFabric-1.18.1-2.0.8.jar"
+hash-format = "sha1"
+hash = "43bbf3c365b52d568d9d9adf5c74b96dee74f915"
+
+[update]
+[update.curseforge]
+file-id = 3745929
+project-id = 530309

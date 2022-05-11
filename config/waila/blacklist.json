@@ -1,0 +1,30 @@
+{
+  "blocks": [
+    "minecraft:barrier",
+    "minecraft:structure_void"
+  ],
+  "blockEntityTypes": [],
+  "entityTypes": [
+    "minecraft:area_effect_cloud",
+    "minecraft:experience_orb",
+    "minecraft:fireball",
+    "minecraft:firework_rocket",
+    "minecraft:snowball",
+
+    "immersive_portals:border_portal",
+    "immersive_portals:breakable_mirror",
+    "immersive_portals:end_floor_portal",
+    "immersive_portals:end_portal",
+    "immersive_portals:general_breakable_portal",
+    "immersive_portals:global_tracked_portal",
+    "immersive_portals:mirror",
+    "immersive_portals:nether_portal_new",
+    "immersive_portals:portal"
+  ],
+  "configVersion": 0,
+  "pluginHash": [
+    1510828157,
+    0,
+    1532117445
+  ]
+}

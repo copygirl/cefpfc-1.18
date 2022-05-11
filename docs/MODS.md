@@ -160,6 +160,44 @@ Mods with a magical theme.
 [Botania]: https://www.curseforge.com/minecraft/mc-mods/botania-fabric
 [Spectrum]: https://modrinth.com/mod/spectrum
 
+### World Generation
+
+Mods that change world generation or add primarily structures / biomes to it.
+
+- ![](icon/cf.png) **[Awesome Dungeons]** - Additional structures / dungeons
+  - ![](icon/cf.png) **[Awesome Dungeons End Edition]**
+  - ![](icon/cf.png) **[Awesome Dungeons Nether Edition]**
+  - ![](icon/cf.png) **[Awesome Dungeons Ocean Edition]**
+- ![](icon/cf.png) **[BetterEnd]** - End biomes with unique resources and mobs
+- ![](icon/cf.png) **[BetterNether]** - Nether biomes with unique plants, materials and mobs
+- ![](icon/cf.png) **[Eden Ring]** - Sci-Fi themed dimension located in the ring around a blue gas giant
+- ![](icon/cf.png) **[Lootr]** - Instanced loot chests so each player gets their own loot
+- ![](icon/mr.png) **[Mo' Structures]** - Carefully designed structures and dungeons
+- ![](icon/mr.png) **[Promenade]** - Beautiful biomes and more
+- ![](icon/mr.png) **[Repurposed Structures]** - Variants of existing Vanilla structures
+- ![](icon/cf.png) **[Stoneholm]** - Underground villages
+- ![](icon/cf.png) **[Terralith]** - Overhauled world generation with many (cave-)biomes
+- ![](icon/cf.png) **[YUNG's Better Dungeons]** - Complete redesign of Vanilla dungeons, as well as new ones
+- ![](icon/cf.png) **[YUNG's Better Mineshafts]** - Completely revamps Vanilla abandoned mineshafts
+- ![](icon/cf.png) **[YUNG's Better Strongholds]** - Complete redesign of Vanilla strongholds
+
+[Awesome Dungeons]: https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-fabric
+[Awesome Dungeons End Edition]: https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-the-end-fabric
+[Awesome Dungeons Nether Edition]: https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-nether-fabric
+[Awesome Dungeons Ocean Edition]: https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-edition-ocean-fabric
+[BetterEnd]: https://www.curseforge.com/minecraft/mc-mods/betterend
+[BetterNether]: https://www.curseforge.com/minecraft/mc-mods/betternether
+[Eden Ring]: https://www.curseforge.com/minecraft/mc-mods/eden-ring
+[Lootr]: https://www.curseforge.com/minecraft/mc-mods/lootr-fabric
+[Mo' Structures]: https://modrinth.com/mod/mo-structures
+[Promenade]: https://modrinth.com/mod/promenade
+[Repurposed Structures]: https://modrinth.com/mod/repurposed-structures-fabric
+[Stoneholm]: https://www.curseforge.com/minecraft/mc-mods/stoneholm
+[Terralith]: https://www.curseforge.com/minecraft/mc-mods/terralith
+[YUNG's Better Dungeons]: https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric
+[YUNG's Better Mineshafts]: https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric
+[YUNG's Better Strongholds]: https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric
+
 
 ## Client-side mods
 
@@ -244,8 +282,8 @@ Mods with a magical theme.
 - ![](icon/mr.png) **[Better Clouds]** (optional) - Prettier but still Vanilla-style clouds
 - ![](icon/mr.png) **[Blur]** - Blurs the world behind opened GUIs
 - ![](icon/mr.png) **[Falling Leaves]** - Falling leaves particle effect to trees
-- ![](icon/mr.png) **[Iris Shaders]** - Add support for shaderpacks
-  - ![](icon/cf.png) **[Complementary Shaders]** - Shaders aiming at performance, gameplay, beauty and compatibility
+- ![](icon/mr.png) **[Iris Shaders]** (optional) - Add support for shaderpacks
+  - ![](icon/cf.png) **[Complementary Shaders]** - Aims at performance, gameplay, beauty and compatibility
   - ![](icon/cf.png) **[Sildur's Vibrant Shaders]** - Revamps the lighting system and adds advanced effects
 - ![](icon/mr.png) **[LambDynamicLights]** - Various ways to dynamically light your surroundings
 - ![](icon/cf.png) **[Smooth Swapping]** - Smoothly move items when transferring them

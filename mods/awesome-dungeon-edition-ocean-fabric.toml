@@ -1,0 +1,13 @@
+name = "Awesome Dungeon Ocean edition - Fabric"
+filename = "AwesomeDungeonOcean-Fabric-1.18.2-2.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3742/17/AwesomeDungeonOcean-Fabric-1.18.2-2.0.6.jar"
+hash-format = "sha1"
+hash = "874660ec28938f984d31c44b992b42482a1f07ba"
+
+[update]
+[update.curseforge]
+file-id = 3742017
+project-id = 556489
